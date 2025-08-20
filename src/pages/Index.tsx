@@ -3,7 +3,7 @@ import Hero from "@/components/Hero"
 import Features from "@/components/Features"
 import HowItWorks from "@/components/HowItWorks"
 import LiveDemo from "@/components/LiveDemo"
-import Team from "@/components/Team" 
+import Team from "@/components/Team"
 import Contact from "@/components/Contact"
 import Footer from "@/components/Footer"
 
